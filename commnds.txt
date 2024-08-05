@@ -1,0 +1,21 @@
+- git clone url of project from github
+- cd (change directory)
+- ls = to display all the files within the folder
+- ls-a = to display hidden files
+
+- git status = to check the status
+    4 status
+        - untracked, modified, staged, unmodified
+
+        changed (modified)       new file (untracked)
+                    |                   |
+                    |___________________|
+                                |
+                            add file (staged)
+                                |
+                            commit (unchanged)
+
+- git add  <file name> (to add modified, untracked files)
+- git add . (to add all changed or modified files)
+
+                    
