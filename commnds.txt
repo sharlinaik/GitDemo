@@ -17,5 +17,6 @@
 
 - git add  <file name> (to add modified, untracked files)
 - git add . (to add all changed or modified files)
+- git commit -m (to commit the files)
 
                     
